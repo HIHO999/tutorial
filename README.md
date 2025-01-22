@@ -1,1 +1,1 @@
-# tutorial 페이지2
+# tutorial
